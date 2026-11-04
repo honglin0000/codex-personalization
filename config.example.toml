@@ -1,0 +1,5 @@
+# 我的 Codex 主模型与思考强度；分享日期：2026-11-04。
+# 将这两项合并到 config.toml 顶层，更新已有同名项，保留其他配置。
+# 使用前确认你的界面/运行环境支持此模型与 Ultra 档位。
+model = "gpt-6-astra"
+model_reasoning_effort = "ultra"
