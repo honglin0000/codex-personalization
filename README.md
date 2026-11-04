@@ -1,6 +1,8 @@
 # 我的 Codex 个性化｜GPT-6 Astra · Ultra
 
-这是我自己在用的 Codex 个性化指令，完整原文放在 [AGENTS.md](AGENTS.md)。
+这是我自己在用的 Codex 个性化指令，完整内容放在 [AGENTS.md](AGENTS.md)。
+
+> 本页已是中文。若浏览器开启了自动翻译，请切回原文，以免模型名称和配置字段被误译。
 
 **我使用的主模型是 GPT-6 Astra，思考强度是 Ultra（`ultra`）。搭配这套个性化，我自己的使用感受是：省了很多额度。**
 
@@ -60,7 +62,7 @@ model_reasoning_effort = "ultra"
 
 ## 仓库内容
 
-- [AGENTS.md](AGENTS.md)：分享时正在使用的完整个性化原文。
+- [AGENTS.md](AGENTS.md)：我的完整个性化指令。
 - [config.example.toml](config.example.toml)：仅含模型和思考强度的配置示例。
 - [模型截图](assets/gpt-6-astra-ultra.png)：GPT-6 Astra · Ultra 的界面截图。
 
